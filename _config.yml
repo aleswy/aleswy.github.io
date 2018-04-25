@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: Jekyll-Mono
+theme: jekyll-theme-midnight
