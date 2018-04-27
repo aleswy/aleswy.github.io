@@ -85,5 +85,5 @@ exclude:
   - README.md
   - CNAME
 
-remote-theme: midnight/_config.yml
+theme: midnight
 
