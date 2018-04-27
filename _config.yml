@@ -18,13 +18,13 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: alexvergara@alexvergara.org
   facebook:
-  flickr: aleswy
   github: aleswy/aleswy.github.io
   instagram:
   linkedin: aleswy
   pinterest:
+  email: alexvergara@alexvergara.org
+  flickr: aleswy
   rss: .
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
