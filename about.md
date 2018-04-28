@@ -3,13 +3,11 @@ layout: page
 title: #### About
 permalink: /about/
 ---
+##### About me
 
-Some information about you!
+I consider myself an enthusiast of IT area. I started in the Systems area are but I have been working in the last years with storage administrador duties.
+I write this blog to share my knowledge and as tech resource for the challanges that I'm encountering in my IT career.
 
-#### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-#### Contact me
+##### Contact me
 
 [alexvergara@alexvergara.org](mailto:alexvergara@alexvergara.org)
